@@ -40,3 +40,20 @@
 2025-04-09T11:35:12.102+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:53536 #1 (1 connection now open)
 2025-04-09T11:35:12.102+0000 I NETWORK  [conn1] received client metadata from 127.0.0.1:53536 conn1: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
 2025-04-09T11:35:12.105+0000 I NETWORK  [conn1] end connection 127.0.0.1:53536 (0 connections now open)
+2025-04-09T11:43:05.959+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:34418 #2 (1 connection now open)
+2025-04-09T11:43:05.959+0000 I NETWORK  [conn2] received client metadata from 127.0.0.1:34418 conn2: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
+2025-04-09T11:49:58.707+0000 I NETWORK  [conn2] end connection 127.0.0.1:34418 (0 connections now open)
+2025-04-09T11:50:12.323+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:51432 #3 (1 connection now open)
+2025-04-09T11:50:12.323+0000 I NETWORK  [conn3] received client metadata from 127.0.0.1:51432 conn3: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
+2025-04-09T11:50:12.325+0000 I NETWORK  [conn3] end connection 127.0.0.1:51432 (0 connections now open)
+2025-04-09T11:50:19.616+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:38098 #4 (1 connection now open)
+2025-04-09T11:50:19.617+0000 I NETWORK  [conn4] received client metadata from 127.0.0.1:38098 conn4: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
+2025-04-09T11:50:19.619+0000 I NETWORK  [conn4] end connection 127.0.0.1:38098 (0 connections now open)
+2025-04-09T11:50:26.414+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:38102 #5 (1 connection now open)
+2025-04-09T11:50:26.415+0000 I NETWORK  [conn5] received client metadata from 127.0.0.1:38102 conn5: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
+2025-04-09T11:50:26.417+0000 I NETWORK  [conn5] end connection 127.0.0.1:38102 (0 connections now open)
+2025-04-09T11:50:33.071+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:47674 #6 (1 connection now open)
+2025-04-09T11:50:33.071+0000 I NETWORK  [conn6] received client metadata from 127.0.0.1:47674 conn6: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
+2025-04-09T11:50:33.073+0000 I NETWORK  [conn6] end connection 127.0.0.1:47674 (0 connections now open)
+2025-04-09T11:50:42.761+0000 I NETWORK  [listener] connection accepted from 127.0.0.1:56580 #7 (1 connection now open)
+2025-04-09T11:50:42.761+0000 I NETWORK  [conn7] received client metadata from 127.0.0.1:56580 conn7: { application: { name: "MongoDB Shell" }, driver: { name: "MongoDB Internal Client", version: "3.6.8" }, os: { type: "Linux", name: "Ubuntu", architecture: "x86_64", version: "20.04" } }
