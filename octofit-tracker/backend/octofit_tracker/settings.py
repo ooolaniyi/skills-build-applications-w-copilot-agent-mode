@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = "django-insecure-tx@kjm3om!7$)%wl2@*be(%ja)x*3(lz-mk_c5b2*%tv9!#zlf"
 
-# SECURITY WARNING: don't run with debug turned on in production environment!
+# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = ['reimagined-couscous-x5r5xr764p4gcp4p7-8000.app.github.dev', 'localhost', '127.0.0.1']
@@ -70,7 +70,7 @@ TEMPLATES = [
 WSGI_APPLICATION = "octofit_tracker.wsgi.application"
 
 
-# Database
+# Djongo Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 DATABASES = {
